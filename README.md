@@ -1,9 +1,11 @@
-```markdown
+
 # 🍎 Classificador de Frutas com Machine Learning
 
 Este projeto utiliza um modelo de **Árvore de Decisão** para identificar tipos de frutas com base em suas características físicas.
 
-<img width="944" height="563" alt="image" src="https://github.com/user-attachments/assets/5ae85938-1a40-4efe-abf9-d5b45453b54b" />
+<img width="944" height="563" alt="Captura de tela 2026-04-28 154306" src="https://github.com/user-attachments/assets/9fb89982-a9f4-4638-9808-86f6cc5afd33" />
+
+
 
 
 ## 📊 O Modelo
